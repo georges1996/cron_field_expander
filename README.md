@@ -32,7 +32,7 @@ To get started with the Cron Field Expander, follow these steps:
    ```
 
 3. **Install packages**
-- Run `bundle` (All tests should pass)
+- Run `bundle
 
 4. **Run the app**
 - An example valid command: `./cron_runner.rb "*/15 0 1,15 MAY 1-5 /usr/bin/find"`
