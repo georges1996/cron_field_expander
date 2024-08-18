@@ -4,6 +4,8 @@
 
 The Cron Field Expander is a Ruby application designed to handle and expand cron field expressions. It supports various formats such as wildcards, lists, ranges, and steps. This tool is useful for interpreting and validating cron job schedules.
 
+Reference for checking CRON formatting: https://crontab.guru
+
 ## Features
 
 - **Wildcard Expansion**: Handles `*` to represent all values within the range.
