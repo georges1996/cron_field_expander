@@ -42,7 +42,7 @@ To get started with the Cron Field Expander, follow these steps:
 	|     |------------------------- Hour (0-23)
 	|     |     |------------------- Day of the month (1-31)
 	|     |     |     |------------- Month (1-12; or JAN to DEC)
-	|     |     |     |     |------- Day of the week (0-6; or SUN to SAT; or 7 for Sunday)
+	|     |     |     |     |------- Day of the week (0-6; or SUN to SAT)
 	|     |     |     |     |
 	|     |     |     |     |
 	*     *     *     *     *
